@@ -1,0 +1,12 @@
+mimic
+botinfo
+name2id
+impersonate
+scan
+most_msgs
+addAvoid
+delAvoid
+avoid
+annoy
+allowR9K
+addR9K
