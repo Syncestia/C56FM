@@ -1,3 +1,2 @@
 # C56FM
- 
-Documentation goes here. Fuck writing up these commands, amirite?
+ A bot more about storing and caching data than actually doing silly fluff commands.
